@@ -1,0 +1,49 @@
+.botoes{
+    border-radius: 10px;
+}
+
+.elementos_login{
+    padding: 10px;
+}
+
+.titulo1{
+    font-size: larger;
+}
+.titulo2{
+    font-size: medium;
+    font-style: italic;
+    color: blueviolet;
+}
+.div_login{
+    border-style: solid;    
+    padding: 10px;
+    margin: 0 auto;
+    width: 30%; 
+    text-align: center;
+}
+
+.div_interna{
+    padding: 10px;
+    margin: 0 auto;
+    width: 30%; 
+    text-align: center;
+}
+.div {
+    padding: 10px;
+    width: 200px;
+    border-style: double;
+    border-color: black;
+    display: inline-block;
+}
+.div2{
+    width: 200px;
+    display: inline-block;
+}
+
+.div3{
+    padding: 10px;    
+}
+
+.mensagem{
+    color: brown;
+}
