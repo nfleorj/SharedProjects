@@ -1,0 +1,2 @@
+1. Acessar o fornt como localhost:3000, executando o npm start. Há que adicionar os components do React, pois esses não puderam ser disponibilizados no GitHub;
+2. Para a api, importar o projeto no STS ou mesmo executar o .jar gerado. Este está em locadora-api\target\locadora-api-0.0.1-SNAPSHOT.jar. Para fazer um teste, basta acessar http://localhost:8081/teste e uma mensagem será exibida: "Olá, estou online"
